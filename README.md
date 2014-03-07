@@ -3,7 +3,7 @@ Android44BugDemo-START_STICKY
 
 Sample code to demonstrate an Android 4.4 bug related to Services. The bug appears to only appear in 4.4.1 and 4.4.2 (perhaps earlier versions, but the reports are unreliable and there's less evidence to back that up). At the time of this writing, two distinct fixes have been submitted to AOSP.
 
-To be used as described in [Title](link)
+To be used as described in [[Bug Watch] Stopping Apps On Android 4.4.2 Can Silently Kill Related Background Services, A Fix Is On The Way](http://www.androidpolice.com/2014/03/07/bug-watch-stopping-apps-on-android-4-4-2-can-silently-kill-related-background-services-a-fix-is-on-the-way/)
 
 NOTE: This project was built with Android Studio v0.4.6
 
