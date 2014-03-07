@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="launcher_name">APBW:Services</string>
+    <string name="app_name">AP Bug Watch - Services</string>
+    <string name="instructions">This app can be used to reproduce a bug that prevents Services from restarting automatically on Android 4.4.1 and 4.4.2 (and possibly others). Toast messages will show every 4 seconds after startup. Change to the multitasking screen and swipe away this app. The correct behavior should allow the Service to either stay alive or restart within seconds. The bug will prevent the service from restarting. The checkbox demonstrates a workaround using Alarms, which can be used to reactivate a dead Service.</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="use_alarm">Use Alarm To Restart Service</string>
+    <string name="android_version">Android Version:</string>
+    <string name="service_reminder">Reminder: The service will eventually restart on its own, so you will want to manually kill it if you plan to leave the app installed.</string>
+
+</resources>
